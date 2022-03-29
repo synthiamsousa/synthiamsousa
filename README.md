@@ -1,4 +1,4 @@
-- 👋 )lá eu sou Synthia Miranda! @synthiamsousa
+- 👋 Olá eu sou Synthia Miranda! @synthiamsousa
 - 👀 Estou interessada em aprender a programar e ingressar no mundo da tecnologia
 - 🌱 Atualmente estou aprendendo lógica de programação
 - 💞️ Procuro colaborar em projetos para iniciantes
